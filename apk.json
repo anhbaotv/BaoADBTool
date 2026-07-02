@@ -1,14 +1,6 @@
 {
     "Truyền Hình": [
         {
-            "title": "StatementService",
-            "version": "1.0",
-            "packageName": "com.baostore.a96a54",
-            "description": "Đã tải lên bằng BaoStore CMS",
-            "icon": "https://img.icons8.com/color/512/android-os.png",
-            "downloadUrl": "https://github.com/anhbaotv/BaoADBTool/releases/download/BaoADBTool/4200a_StatementService.apk"
-        },
-        {
             "id": "app_1782669429601",
             "title": "ThuyDungTV",
             "icon": "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/icons/9w.png",
