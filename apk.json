@@ -1,25 +1,6 @@
 {
     "Truyền Hình": [
         {
-            "id": "app_1782712001843",
-            "title": "VappTV",
-            "icon": "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
-            "rating": 5.0,
-            "version": "1.0.2",
-            "oldVersion": "",
-            "description": "Ứng dụng xem truyền hình thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-            "changelog": "",
-            "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/vapptv.apk",
-            "updateUrl": "",
-            "packageName": "com.tv.vapptv",
-            "isLocked": false,
-            "screenshots": [
-                "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
-                "https://lh3.googleusercontent.com/d/1SNt1amvLvWZHWx9IZGQ4xzLeliUN2OJ_",
-                "https://lh3.googleusercontent.com/d/1VCueOoU8akM1bH03wA-VQaDPPzhJMxML"
-            ]
-        },
-        {
             "id": "TV360",
             "title": "TV360",
             "icon": "https://lh3.googleusercontent.com/d/1FoKzNUQTs3xHEGGQgyE3nWAtTQD06sML",
