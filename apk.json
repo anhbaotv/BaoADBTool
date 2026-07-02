@@ -1,340 +1,348 @@
 {
-  "Truyền Hình": [
-    {
-      "id": "app_1782669429601",
-      "title": "ThuyDungTV",
-      "icon": "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/icons/9w.png",
-      "rating": 5.0,
-      "version": "1.0.12",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình trực tuyến chính thức của các đài truyền hình lớn tại Việt Nam và thế giới.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/TDS_tivi.apk",
-      "updateUrl": "",
-      "packageName": "com.apptv.tdstivi",
-      "isLocked": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/9w.png",
-        "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/z7983955236390_3d405e0c2853e7263642f24dd1292d76.jpg"
-      ]
-    },
-    {
-      "id": "app_1782711753626",
-      "title": "DL-TV",
-      "icon": "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
-      "rating": 5.0,
-      "version": "16",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/DLtv.apk",
-      "updateUrl": "",
-      "packageName": "com.apptv.dl",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
-        "https://lh3.googleusercontent.com/d/133vlKybVu5IXHqHnE6exaGkcZex9Xscc"
-      ]
-    },
-    {
-      "id": "iMediaTV",
-      "title": "iMediaTV",
-      "icon": "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
-      "rating": 5.0,
-      "version": "4.2",
-      "oldVersion": "",
-      "description": "",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iMedia.TV.v.25.04.06.B.apk",
-      "updateUrl": "",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
-        "https://lh3.googleusercontent.com/d/1kaAxJK0l5umTlPU0tp3kCZrS1_gDdA0w"
-      ]
-    },
-    {
-      "id": "app_1782712001843",
-      "title": "VappTV",
-      "icon": "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
-      "rating": 5.0,
-      "version": "1.0.2",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/vapptv.apk",
-      "updateUrl": "",
-      "packageName": "com.tv.vapptv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
-        "https://lh3.googleusercontent.com/d/1SNt1amvLvWZHWx9IZGQ4xzLeliUN2OJ_",
-        "https://lh3.googleusercontent.com/d/1VCueOoU8akM1bH03wA-VQaDPPzhJMxML"
-      ]
-    },
-    {
-      "id": "TV360",
-      "title": "TV360",
-      "icon": "https://lh3.googleusercontent.com/d/1FoKzNUQTs3xHEGGQgyE3nWAtTQD06sML",
-      "rating": 4.5,
-      "version": "5.4",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình,thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/TV360.tv.v.5.4.apk",
-      "updateUrl": "",
-      "packageName": "com.viettel.tv360.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1_qvnOvRkZaVfETyXuEOf8-5eqXj9mU8U",
-        "https://lh3.googleusercontent.com/d/1aaSyJx-feTrl2BGw-iPyhKzPmsd7ylvK"
-      ]
-    },
-    {
-      "id": "app_1782713695730",
-      "title": "FPTPlay",
-      "icon": "https://lh3.googleusercontent.com/d/1vmuSa3KvAKxcvlGpxQiaCnNNsCfaIscC",
-      "rating": 5.0,
-      "version": "7.25.10",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/FPTPLAY.v.7.25.10.apk",
-      "updateUrl": "",
-      "packageName": "net.fptplay.ottbox",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1df9mNRKOlE-uN-o7RotqrJ_8z-1xZE9i",
-        "https://lh3.googleusercontent.com/d/1tMIok_HwAASINy4kqwO0P0Jda1bRZ5wg"
-      ]
-    }
-  ],
-  "Youtube": [
-    {
-      "id": "yotube1",
-      "title": "Youtube",
-      "icon": "https://lh3.googleusercontent.com/d/1cWIGVS-4sMv901_KyhM5uY1VsGlh1Acr",
-      "rating": 4.8,
-      "version": "1.0.12",
-      "oldVersion": "",
-      "description": "Ứng dụng chính thức của google có quảng cáo.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/cobalttube-arm.apk",
-      "updateUrl": "",
-      "packageName": "com.google.android.youtube.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/140MJ407y6XHX3ab42TC9IJzC4KmNz2O0",
-        "https://lh3.googleusercontent.com/d/10V8yolHeBVluwAkUJHB0C4pUHD0qBMik"
-      ]
-    }
-  ],
-  "Xem Phim": [
-    {
-      "id": "Phim4",
-      "title": "iQIYI",
-      "icon": "https://lh3.googleusercontent.com/d/17ypQpN7Ohkn4p538-KvubPpHDq2jP7s-",
-      "rating": 4.3,
-      "version": "1.9.0",
-      "oldVersion": "",
-      "description": "iQIYI là một nền tảng xem video trực tuyến của Trung Quốc, thuộc sở hữu của tập đoàn Baidu, cung cấp một kho nội dung giải trí đa dạng bao gồm phim truyền hình, điện ảnh, chương trình truyền hình và anime. Nền tảng này có phiên bản quốc tế với phụ đề đa ngôn ngữ, bao gồm tiếng Việt, để phục vụ người xem trên toàn thế giới. ",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iQIYI.v.9.3.1.apk",
-      "updateUrl": "",
-      "packageName": "com.iqiyi.i18n.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1D9sVlqRmTYo3kA4YCAF2hFzYTQUC-AKD",
-        "https://lh3.googleusercontent.com/d/1H2gerGrIoK8Z1ADdDyKn2-u-M85RW8mW"
-      ]
-    }
-  ],
-  "Thể Thao": [],
-  "KaRaoKe-Âm nhạc": [
-    {
-      "id": "ka1",
-      "title": "SmartKaraoke",
-      "icon": "https://lh3.googleusercontent.com/d/1Eydojwu9sUt_8y0hv-r7KdbMOmeTdxVl",
-      "rating": 4.7,
-      "version": "3.52",
-      "oldVersion": "",
-      "description": "Smart Karaoke Player là phần mềm karaoke chuyên nghiệp dành cho các đầu HD – 4K, Android Box.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/SmartKaraokePlayerPRO_v3.52_RTD.apk",
-      "updateUrl": "",
-      "packageName": "com.smartkaraoke.playerpro",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1shIWB4PGGgiDR1oV_xwq2L2pO0W6w7NZ",
-        "https://lh3.googleusercontent.com/d/19ICxhD8kNeanL7r-XHUhDPRmLRPik5t-"
-      ]
-    }
-  ],
-  "Trình Duyệt": [
-    {
-      "id": "td1",
-      "title": "ChomeTV",
-      "icon": "https://lh3.googleusercontent.com/d/1TDc0JKajGdtV-rOSyRxyDeiQcJq6K_HJ",
-      "rating": 4.5,
-      "version": "57.0.2987",
-      "oldVersion": "",
-      "description": "Chrome giúp bạn làm mọi việc có thể trên web.Trình duyệt tốc độ cao và bảo mật của Google.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Chrome.v.57.0.2987.132.apk",
-      "updateUrl": "",
-      "packageName": "com.android.chrome",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1J4yvIXPEDShJHbm7iNXF9adOSJkzS_GT",
-        "https://lh3.googleusercontent.com/d/1dzkKb13-_lF4Wqqg17F-Keerk3t5289e"
-      ]
-    }
-  ],
-  "Quản lý file-Bluetooth": [
-    {
-      "id": "new5",
-      "title": "Filemanager",
-      "icon": "https://lh3.googleusercontent.com/d/1SsmOeivqfW1LvRAuJcYKfZGSRoMWf3ab",
-      "rating": 5.0,
-      "version": "1.0.3",
-      "oldVersion": "",
-      "description": "File manager là một ứng dụng hoặc công cụ giúp người dùng quản lý tệp và thư mục trên AndroidTV.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Filemanager.v.3.2.2.apk",
-      "updateUrl": "",
-      "packageName": "com.hitv.explore",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1c1XvlDe58pQKC1aC9peZzC84aIymVJ6x",
-        "https://lh3.googleusercontent.com/d/1FGkxHGWRWiDb5795mHCA4H4ddhujOyBh"
-      ]
-    },
-    {
-      "id": "new7",
-      "title": "Tìm Bluetooth",
-      "icon": "https://lh3.googleusercontent.com/d/1C6Ys7U8rAUlMgHA-PyzQDFZwO-ndVSPa",
-      "rating": 5.0,
-      "version": "2.0",
-      "oldVersion": "",
-      "description": "Là ứng dụng trên Android TV giúp quét, tìm kiếm và kết nối với các thiết bị Bluetooth khác như tai nghe, loa, hoặc các thiết bị khác.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/bluetoothtvscanner.v.2.0.apk",
-      "updateUrl": "",
-      "packageName": "com.zdworksinc.bluetoothtvscanner",
-      "isLocked": false,
-      "screenshots": []
-    }
-  ],
-  "Tìm kiếm giọng nói-Bàn phím": [
-    {
-      "id": "tk1",
-      "title": "Google",
-      "icon": "https://lh3.googleusercontent.com/d/18WKENXbVVT2Zi5BRUfRQRdKDckxL91Oi",
-      "rating": 5.0,
-      "version": "7.9.2023",
-      "oldVersion": "",
-      "description": "Tích hợp tính năng điều khiển bằng giọng nói thông qua Google Assistant.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Google.v.7.9.20231101.2.apk",
-      "updateUrl": "",
-      "packageName": "com.google.android.katniss",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1TaiI_MSc9oRaDZ0Su5nGRFZpMxwC-JmT"
-      ]
-    },
-    {
-      "id": "tk4",
-      "title": "KiKi",
-      "icon": "https://lh3.googleusercontent.com/d/1JLxowVw3QqJ4JDkb9V1DvmmoRz-2LFu1",
-      "rating": 5.0,
-      "version": "24.01",
-      "oldVersion": "",
-      "description": "Kiki - Android TV là trợ lý ảo giọng nói tiếng Việt dành cho các thiết bị Android TV và TV Box, cho phép người dùng điều khiển TV và thực hiện nhiều tác vụ khác bằng giọng nói. Ứng dụng này giúp bạn mở kênh, xem video trên YouTube, hỏi thông tin thời tiết, giá cả, hay quản lý lịch trình một cách tiện lợi.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Kiki.v.24.01.01.apk",
-      "updateUrl": "",
-      "packageName": "ai.zalo.kiki.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1vrWQmDFyzMbn6tN5GInXfRR9vE3Sk9cr",
-        "https://lh3.googleusercontent.com/d/1riBaUecpRS5v4ktRXgqTyL8g6v4aTy07"
-      ]
-    },
-    {
-      "id": "tk5",
-      "title": "Bàn phím ATV",
-      "icon": "https://lh3.googleusercontent.com/d/1M_2S3S37qxA853keMy8CA7m0LXaEGO0c",
-      "rating": 5.0,
-      "version": "1.4.3",
-      "oldVersion": "",
-      "description": "Bàn phím Android TV là một bàn phím ảo hoặc ứng dụng bàn phím vật lý (bàn phím ngoài) được thiết kế để sử dụng trên các thiết bị chạy hệ điều hành Android TV, Fire TV và Smart TV. Nó giúp người dùng nhập liệu, tìm kiếm nội dung và sử dụng các ứng dụng một cách dễ dàng hơn so với việc chỉ dùng remote thông thường.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Ban.phim.Android.TV_1.4.3.190711.apk",
-      "updateUrl": "",
-      "packageName": "com.ndcsolution.androidtv.leankeykeyboard",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1E52Y0zDut4wFKy0FHUPQe134_z8A9tMk",
-        "https://lh3.googleusercontent.com/d/1b2E42YeWcZV4k7tDtF-EBbAfL3ZirbFv"
-      ]
-    },
-    {
-      "id": "tk6",
-      "title": "LeanKey Keyboard",
-      "icon": "https://lh3.googleusercontent.com/d/1jyIBJmj28fp2gsGAioRdBJdsN9Qsq8Aq",
-      "rating": 5.0,
-      "version": "6.1.20",
-      "oldVersion": "",
-      "description": "LeanKey Keyboard là một ứng dụng bàn phím gõ tiếng Việt phổ biến cho Android.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/LeanKey.Keyboard_6.1.20.apk",
-      "updateUrl": "",
-      "packageName": "org.liskovsoft.androidtv.rukeyboard",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1Xn_zu5t83OSaFLjNXhI6Dm8mZBCN0QwL",
-        "https://lh3.googleusercontent.com/d/1usNWoV3d8sWR201LTtlGIIUSosVNYdvA"
-      ]
-    }
-  ],
-  "Tiện Ích": [
-    {
-      "id": "tc1",
-      "title": "AIDA64",
-      "icon": "https://lh3.googleusercontent.com/d/1U6QdxZo8AXTZc73NC5FM430plQleW0mq",
-      "rating": 5.0,
-      "version": "1.98",
-      "oldVersion": "",
-      "description": "AIDA64 là một phần mềm chẩn đoán, kiểm tra và báo cáo thông tin hệ thống cho cả AndroidTV và thiết bị di động.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/AIDA64.v.1.98.apk",
-      "updateUrl": "",
-      "packageName": "com.finalwire.aida64",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1BUCE3aH1M8eOKJYHoqIv_uDRI8MCl7h7",
-        "https://lh3.googleusercontent.com/d/1qY3bsMPmhSmlnOgETkzA0pxu8AodBhjk"
-      ]
-    },
-    {
-      "id": "tc2",
-      "title": "Set Orientation",
-      "icon": "https://lh3.googleusercontent.com/d/1ICq3qsz0vifzsdNryZMn4i-ox6UN-Jur",
-      "rating": 5.0,
-      "version": "1.1.4",
-      "oldVersion": "",
-      "description": "Set Orientation cho phép bạn buộc thiết bị của mình theo một hướng màn hình cụ thể( Xoay màn hình ).",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Set.Orientation.v.1.1.4.apk",
-      "updateUrl": "",
-      "packageName": "com.googlecode.eyesfree.setorientation",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1eHjH3nFR3TWE6mm4KWfWGKhlkMWaU2sY",
-        "https://lh3.googleusercontent.com/d/1hJmOKZvqpnHDAWQXqvUZgKHm3Hozc7Lg"
-      ]
-    }
-  ]
+    "Truyền Hình": [
+        {
+            "title": "StatementService",
+            "version": "1.0",
+            "packageName": "com.baostore.a96a54",
+            "description": "Đã tải lên bằng BaoStore CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/anhbaotv/BaoADBTool/releases/download/BaoADBTool/4200a_StatementService.apk"
+        },
+        {
+            "id": "app_1782669429601",
+            "title": "ThuyDungTV",
+            "icon": "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/icons/9w.png",
+            "rating": 5.0,
+            "version": "1.0.12",
+            "oldVersion": "",
+            "description": "Ứng dụng xem truyền hình trực tuyến chính thức của các đài truyền hình lớn tại Việt Nam và thế giới.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/TDS_tivi.apk",
+            "updateUrl": "",
+            "packageName": "com.apptv.tdstivi",
+            "isLocked": false,
+            "screenshots": [
+                "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/9w.png",
+                "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/z7983955236390_3d405e0c2853e7263642f24dd1292d76.jpg"
+            ]
+        },
+        {
+            "id": "app_1782711753626",
+            "title": "DL-TV",
+            "icon": "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
+            "rating": 5.0,
+            "version": "16",
+            "oldVersion": "",
+            "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/DLtv.apk",
+            "updateUrl": "",
+            "packageName": "com.apptv.dl",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
+                "https://lh3.googleusercontent.com/d/133vlKybVu5IXHqHnE6exaGkcZex9Xscc"
+            ]
+        },
+        {
+            "id": "iMediaTV",
+            "title": "iMediaTV",
+            "icon": "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
+            "rating": 5.0,
+            "version": "4.2",
+            "oldVersion": "",
+            "description": "",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iMedia.TV.v.25.04.06.B.apk",
+            "updateUrl": "",
+            "packageName": "com.kt.apps.media.xemtv.beta",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
+                "https://lh3.googleusercontent.com/d/1kaAxJK0l5umTlPU0tp3kCZrS1_gDdA0w"
+            ]
+        },
+        {
+            "id": "app_1782712001843",
+            "title": "VappTV",
+            "icon": "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
+            "rating": 5.0,
+            "version": "1.0.2",
+            "oldVersion": "",
+            "description": "Ứng dụng xem truyền hình thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/vapptv.apk",
+            "updateUrl": "",
+            "packageName": "com.tv.vapptv",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
+                "https://lh3.googleusercontent.com/d/1SNt1amvLvWZHWx9IZGQ4xzLeliUN2OJ_",
+                "https://lh3.googleusercontent.com/d/1VCueOoU8akM1bH03wA-VQaDPPzhJMxML"
+            ]
+        },
+        {
+            "id": "TV360",
+            "title": "TV360",
+            "icon": "https://lh3.googleusercontent.com/d/1FoKzNUQTs3xHEGGQgyE3nWAtTQD06sML",
+            "rating": 4.5,
+            "version": "5.4",
+            "oldVersion": "",
+            "description": "Ứng dụng xem truyền hình,thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/TV360.tv.v.5.4.apk",
+            "updateUrl": "",
+            "packageName": "com.viettel.tv360.tv",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1_qvnOvRkZaVfETyXuEOf8-5eqXj9mU8U",
+                "https://lh3.googleusercontent.com/d/1aaSyJx-feTrl2BGw-iPyhKzPmsd7ylvK"
+            ]
+        },
+        {
+            "id": "app_1782713695730",
+            "title": "FPTPlay",
+            "icon": "https://lh3.googleusercontent.com/d/1vmuSa3KvAKxcvlGpxQiaCnNNsCfaIscC",
+            "rating": 5.0,
+            "version": "7.25.10",
+            "oldVersion": "",
+            "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/FPTPLAY.v.7.25.10.apk",
+            "updateUrl": "",
+            "packageName": "net.fptplay.ottbox",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1df9mNRKOlE-uN-o7RotqrJ_8z-1xZE9i",
+                "https://lh3.googleusercontent.com/d/1tMIok_HwAASINy4kqwO0P0Jda1bRZ5wg"
+            ]
+        }
+    ],
+    "Youtube": [
+        {
+            "id": "yotube1",
+            "title": "Youtube",
+            "icon": "https://lh3.googleusercontent.com/d/1cWIGVS-4sMv901_KyhM5uY1VsGlh1Acr",
+            "rating": 4.8,
+            "version": "1.0.12",
+            "oldVersion": "",
+            "description": "Ứng dụng chính thức của google có quảng cáo.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/cobalttube-arm.apk",
+            "updateUrl": "",
+            "packageName": "com.google.android.youtube.tv",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/140MJ407y6XHX3ab42TC9IJzC4KmNz2O0",
+                "https://lh3.googleusercontent.com/d/10V8yolHeBVluwAkUJHB0C4pUHD0qBMik"
+            ]
+        }
+    ],
+    "Xem Phim": [
+        {
+            "id": "Phim4",
+            "title": "iQIYI",
+            "icon": "https://lh3.googleusercontent.com/d/17ypQpN7Ohkn4p538-KvubPpHDq2jP7s-",
+            "rating": 4.3,
+            "version": "1.9.0",
+            "oldVersion": "",
+            "description": "iQIYI là một nền tảng xem video trực tuyến của Trung Quốc, thuộc sở hữu của tập đoàn Baidu, cung cấp một kho nội dung giải trí đa dạng bao gồm phim truyền hình, điện ảnh, chương trình truyền hình và anime. Nền tảng này có phiên bản quốc tế với phụ đề đa ngôn ngữ, bao gồm tiếng Việt, để phục vụ người xem trên toàn thế giới. ",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iQIYI.v.9.3.1.apk",
+            "updateUrl": "",
+            "packageName": "com.iqiyi.i18n.tv",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1D9sVlqRmTYo3kA4YCAF2hFzYTQUC-AKD",
+                "https://lh3.googleusercontent.com/d/1H2gerGrIoK8Z1ADdDyKn2-u-M85RW8mW"
+            ]
+        }
+    ],
+    "Thể Thao": [],
+    "KaRaoKe-Âm nhạc": [
+        {
+            "id": "ka1",
+            "title": "SmartKaraoke",
+            "icon": "https://lh3.googleusercontent.com/d/1Eydojwu9sUt_8y0hv-r7KdbMOmeTdxVl",
+            "rating": 4.7,
+            "version": "3.52",
+            "oldVersion": "",
+            "description": "Smart Karaoke Player là phần mềm karaoke chuyên nghiệp dành cho các đầu HD – 4K, Android Box.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/SmartKaraokePlayerPRO_v3.52_RTD.apk",
+            "updateUrl": "",
+            "packageName": "com.smartkaraoke.playerpro",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1shIWB4PGGgiDR1oV_xwq2L2pO0W6w7NZ",
+                "https://lh3.googleusercontent.com/d/19ICxhD8kNeanL7r-XHUhDPRmLRPik5t-"
+            ]
+        }
+    ],
+    "Trình Duyệt": [
+        {
+            "id": "td1",
+            "title": "ChomeTV",
+            "icon": "https://lh3.googleusercontent.com/d/1TDc0JKajGdtV-rOSyRxyDeiQcJq6K_HJ",
+            "rating": 4.5,
+            "version": "57.0.2987",
+            "oldVersion": "",
+            "description": "Chrome giúp bạn làm mọi việc có thể trên web.Trình duyệt tốc độ cao và bảo mật của Google.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Chrome.v.57.0.2987.132.apk",
+            "updateUrl": "",
+            "packageName": "com.android.chrome",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1J4yvIXPEDShJHbm7iNXF9adOSJkzS_GT",
+                "https://lh3.googleusercontent.com/d/1dzkKb13-_lF4Wqqg17F-Keerk3t5289e"
+            ]
+        }
+    ],
+    "Quản lý file-Bluetooth": [
+        {
+            "id": "new5",
+            "title": "Filemanager",
+            "icon": "https://lh3.googleusercontent.com/d/1SsmOeivqfW1LvRAuJcYKfZGSRoMWf3ab",
+            "rating": 5.0,
+            "version": "1.0.3",
+            "oldVersion": "",
+            "description": "File manager là một ứng dụng hoặc công cụ giúp người dùng quản lý tệp và thư mục trên AndroidTV.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Filemanager.v.3.2.2.apk",
+            "updateUrl": "",
+            "packageName": "com.hitv.explore",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1c1XvlDe58pQKC1aC9peZzC84aIymVJ6x",
+                "https://lh3.googleusercontent.com/d/1FGkxHGWRWiDb5795mHCA4H4ddhujOyBh"
+            ]
+        },
+        {
+            "id": "new7",
+            "title": "Tìm Bluetooth",
+            "icon": "https://lh3.googleusercontent.com/d/1C6Ys7U8rAUlMgHA-PyzQDFZwO-ndVSPa",
+            "rating": 5.0,
+            "version": "2.0",
+            "oldVersion": "",
+            "description": "Là ứng dụng trên Android TV giúp quét, tìm kiếm và kết nối với các thiết bị Bluetooth khác như tai nghe, loa, hoặc các thiết bị khác.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/bluetoothtvscanner.v.2.0.apk",
+            "updateUrl": "",
+            "packageName": "com.zdworksinc.bluetoothtvscanner",
+            "isLocked": false,
+            "screenshots": []
+        }
+    ],
+    "Tìm kiếm giọng nói-Bàn phím": [
+        {
+            "id": "tk1",
+            "title": "Google",
+            "icon": "https://lh3.googleusercontent.com/d/18WKENXbVVT2Zi5BRUfRQRdKDckxL91Oi",
+            "rating": 5.0,
+            "version": "7.9.2023",
+            "oldVersion": "",
+            "description": "Tích hợp tính năng điều khiển bằng giọng nói thông qua Google Assistant.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Google.v.7.9.20231101.2.apk",
+            "updateUrl": "",
+            "packageName": "com.google.android.katniss",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1TaiI_MSc9oRaDZ0Su5nGRFZpMxwC-JmT"
+            ]
+        },
+        {
+            "id": "tk4",
+            "title": "KiKi",
+            "icon": "https://lh3.googleusercontent.com/d/1JLxowVw3QqJ4JDkb9V1DvmmoRz-2LFu1",
+            "rating": 5.0,
+            "version": "24.01",
+            "oldVersion": "",
+            "description": "Kiki - Android TV là trợ lý ảo giọng nói tiếng Việt dành cho các thiết bị Android TV và TV Box, cho phép người dùng điều khiển TV và thực hiện nhiều tác vụ khác bằng giọng nói. Ứng dụng này giúp bạn mở kênh, xem video trên YouTube, hỏi thông tin thời tiết, giá cả, hay quản lý lịch trình một cách tiện lợi.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Kiki.v.24.01.01.apk",
+            "updateUrl": "",
+            "packageName": "ai.zalo.kiki.tv",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1vrWQmDFyzMbn6tN5GInXfRR9vE3Sk9cr",
+                "https://lh3.googleusercontent.com/d/1riBaUecpRS5v4ktRXgqTyL8g6v4aTy07"
+            ]
+        },
+        {
+            "id": "tk5",
+            "title": "Bàn phím ATV",
+            "icon": "https://lh3.googleusercontent.com/d/1M_2S3S37qxA853keMy8CA7m0LXaEGO0c",
+            "rating": 5.0,
+            "version": "1.4.3",
+            "oldVersion": "",
+            "description": "Bàn phím Android TV là một bàn phím ảo hoặc ứng dụng bàn phím vật lý (bàn phím ngoài) được thiết kế để sử dụng trên các thiết bị chạy hệ điều hành Android TV, Fire TV và Smart TV. Nó giúp người dùng nhập liệu, tìm kiếm nội dung và sử dụng các ứng dụng một cách dễ dàng hơn so với việc chỉ dùng remote thông thường.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Ban.phim.Android.TV_1.4.3.190711.apk",
+            "updateUrl": "",
+            "packageName": "com.ndcsolution.androidtv.leankeykeyboard",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1E52Y0zDut4wFKy0FHUPQe134_z8A9tMk",
+                "https://lh3.googleusercontent.com/d/1b2E42YeWcZV4k7tDtF-EBbAfL3ZirbFv"
+            ]
+        },
+        {
+            "id": "tk6",
+            "title": "LeanKey Keyboard",
+            "icon": "https://lh3.googleusercontent.com/d/1jyIBJmj28fp2gsGAioRdBJdsN9Qsq8Aq",
+            "rating": 5.0,
+            "version": "6.1.20",
+            "oldVersion": "",
+            "description": "LeanKey Keyboard là một ứng dụng bàn phím gõ tiếng Việt phổ biến cho Android.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/LeanKey.Keyboard_6.1.20.apk",
+            "updateUrl": "",
+            "packageName": "org.liskovsoft.androidtv.rukeyboard",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1Xn_zu5t83OSaFLjNXhI6Dm8mZBCN0QwL",
+                "https://lh3.googleusercontent.com/d/1usNWoV3d8sWR201LTtlGIIUSosVNYdvA"
+            ]
+        }
+    ],
+    "Tiện Ích": [
+        {
+            "id": "tc1",
+            "title": "AIDA64",
+            "icon": "https://lh3.googleusercontent.com/d/1U6QdxZo8AXTZc73NC5FM430plQleW0mq",
+            "rating": 5.0,
+            "version": "1.98",
+            "oldVersion": "",
+            "description": "AIDA64 là một phần mềm chẩn đoán, kiểm tra và báo cáo thông tin hệ thống cho cả AndroidTV và thiết bị di động.",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/AIDA64.v.1.98.apk",
+            "updateUrl": "",
+            "packageName": "com.finalwire.aida64",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1BUCE3aH1M8eOKJYHoqIv_uDRI8MCl7h7",
+                "https://lh3.googleusercontent.com/d/1qY3bsMPmhSmlnOgETkzA0pxu8AodBhjk"
+            ]
+        },
+        {
+            "id": "tc2",
+            "title": "Set Orientation",
+            "icon": "https://lh3.googleusercontent.com/d/1ICq3qsz0vifzsdNryZMn4i-ox6UN-Jur",
+            "rating": 5.0,
+            "version": "1.1.4",
+            "oldVersion": "",
+            "description": "Set Orientation cho phép bạn buộc thiết bị của mình theo một hướng màn hình cụ thể( Xoay màn hình ).",
+            "changelog": "",
+            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Set.Orientation.v.1.1.4.apk",
+            "updateUrl": "",
+            "packageName": "com.googlecode.eyesfree.setorientation",
+            "isLocked": false,
+            "screenshots": [
+                "https://lh3.googleusercontent.com/d/1eHjH3nFR3TWE6mm4KWfWGKhlkMWaU2sY",
+                "https://lh3.googleusercontent.com/d/1hJmOKZvqpnHDAWQXqvUZgKHm3Hozc7Lg"
+            ]
+        }
+    ]
 }
