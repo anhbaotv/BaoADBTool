@@ -1,24 +1,6 @@
 {
     "Truyền Hình": [
         {
-            "id": "app_1782669429601",
-            "title": "ThuyDungTV",
-            "icon": "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/icons/9w.png",
-            "rating": 5.0,
-            "version": "1.0.12",
-            "oldVersion": "",
-            "description": "Ứng dụng xem truyền hình trực tuyến chính thức của các đài truyền hình lớn tại Việt Nam và thế giới.",
-            "changelog": "",
-            "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/TDS_tivi.apk",
-            "updateUrl": "",
-            "packageName": "com.apptv.tdstivi",
-            "isLocked": false,
-            "screenshots": [
-                "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/9w.png",
-                "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/z7983955236390_3d405e0c2853e7263642f24dd1292d76.jpg"
-            ]
-        },
-        {
             "id": "app_1782711753626",
             "title": "DL-TV",
             "icon": "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
