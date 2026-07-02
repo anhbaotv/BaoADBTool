@@ -1,24 +1,6 @@
 {
     "Truyền Hình": [
         {
-            "id": "iMediaTV",
-            "title": "iMediaTV",
-            "icon": "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
-            "rating": 5.0,
-            "version": "4.2",
-            "oldVersion": "",
-            "description": "",
-            "changelog": "",
-            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iMedia.TV.v.25.04.06.B.apk",
-            "updateUrl": "",
-            "packageName": "com.kt.apps.media.xemtv.beta",
-            "isLocked": false,
-            "screenshots": [
-                "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
-                "https://lh3.googleusercontent.com/d/1kaAxJK0l5umTlPU0tp3kCZrS1_gDdA0w"
-            ]
-        },
-        {
             "id": "app_1782712001843",
             "title": "VappTV",
             "icon": "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
