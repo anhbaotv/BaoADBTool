@@ -19,43 +19,5 @@
                 "https://lh3.googleusercontent.com/d/1dzkKb13-_lF4Wqqg17F-Keerk3t5289e"
             ]
         }
-    ],
-    "Tiện Ích": [
-        {
-            "id": "tc1",
-            "title": "AIDA64",
-            "icon": "https://lh3.googleusercontent.com/d/1U6QdxZo8AXTZc73NC5FM430plQleW0mq",
-            "rating": 5.0,
-            "version": "1.98",
-            "oldVersion": "",
-            "description": "AIDA64 là một phần mềm chẩn đoán, kiểm tra và báo cáo thông tin hệ thống cho cả AndroidTV và thiết bị di động.",
-            "changelog": "",
-            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/AIDA64.v.1.98.apk",
-            "updateUrl": "",
-            "packageName": "com.finalwire.aida64",
-            "isLocked": false,
-            "screenshots": [
-                "https://lh3.googleusercontent.com/d/1BUCE3aH1M8eOKJYHoqIv_uDRI8MCl7h7",
-                "https://lh3.googleusercontent.com/d/1qY3bsMPmhSmlnOgETkzA0pxu8AodBhjk"
-            ]
-        },
-        {
-            "id": "tc2",
-            "title": "Set Orientation",
-            "icon": "https://lh3.googleusercontent.com/d/1ICq3qsz0vifzsdNryZMn4i-ox6UN-Jur",
-            "rating": 5.0,
-            "version": "1.1.4",
-            "oldVersion": "",
-            "description": "Set Orientation cho phép bạn buộc thiết bị của mình theo một hướng màn hình cụ thể( Xoay màn hình ).",
-            "changelog": "",
-            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Set.Orientation.v.1.1.4.apk",
-            "updateUrl": "",
-            "packageName": "com.googlecode.eyesfree.setorientation",
-            "isLocked": false,
-            "screenshots": [
-                "https://lh3.googleusercontent.com/d/1eHjH3nFR3TWE6mm4KWfWGKhlkMWaU2sY",
-                "https://lh3.googleusercontent.com/d/1hJmOKZvqpnHDAWQXqvUZgKHm3Hozc7Lg"
-            ]
-        }
     ]
 }
