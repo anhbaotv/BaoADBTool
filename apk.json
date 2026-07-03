@@ -20,41 +20,6 @@
             ]
         }
     ],
-    "Quản lý file-Bluetooth": [
-        {
-            "id": "new5",
-            "title": "Filemanager",
-            "icon": "https://lh3.googleusercontent.com/d/1SsmOeivqfW1LvRAuJcYKfZGSRoMWf3ab",
-            "rating": 5.0,
-            "version": "1.0.3",
-            "oldVersion": "",
-            "description": "File manager là một ứng dụng hoặc công cụ giúp người dùng quản lý tệp và thư mục trên AndroidTV.",
-            "changelog": "",
-            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Filemanager.v.3.2.2.apk",
-            "updateUrl": "",
-            "packageName": "com.hitv.explore",
-            "isLocked": false,
-            "screenshots": [
-                "https://lh3.googleusercontent.com/d/1c1XvlDe58pQKC1aC9peZzC84aIymVJ6x",
-                "https://lh3.googleusercontent.com/d/1FGkxHGWRWiDb5795mHCA4H4ddhujOyBh"
-            ]
-        },
-        {
-            "id": "new7",
-            "title": "Tìm Bluetooth",
-            "icon": "https://lh3.googleusercontent.com/d/1C6Ys7U8rAUlMgHA-PyzQDFZwO-ndVSPa",
-            "rating": 5.0,
-            "version": "2.0",
-            "oldVersion": "",
-            "description": "Là ứng dụng trên Android TV giúp quét, tìm kiếm và kết nối với các thiết bị Bluetooth khác như tai nghe, loa, hoặc các thiết bị khác.",
-            "changelog": "",
-            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/bluetoothtvscanner.v.2.0.apk",
-            "updateUrl": "",
-            "packageName": "com.zdworksinc.bluetoothtvscanner",
-            "isLocked": false,
-            "screenshots": []
-        }
-    ],
     "Tìm kiếm giọng nói-Bàn phím": [
         {
             "id": "tk1",
