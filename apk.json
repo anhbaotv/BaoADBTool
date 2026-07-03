@@ -1,24 +1,4 @@
 {
-    "Xem Phim": [
-        {
-            "id": "Phim4",
-            "title": "iQIYI",
-            "icon": "https://lh3.googleusercontent.com/d/17ypQpN7Ohkn4p538-KvubPpHDq2jP7s-",
-            "rating": 4.3,
-            "version": "1.9.0",
-            "oldVersion": "",
-            "description": "iQIYI là một nền tảng xem video trực tuyến của Trung Quốc, thuộc sở hữu của tập đoàn Baidu, cung cấp một kho nội dung giải trí đa dạng bao gồm phim truyền hình, điện ảnh, chương trình truyền hình và anime. Nền tảng này có phiên bản quốc tế với phụ đề đa ngôn ngữ, bao gồm tiếng Việt, để phục vụ người xem trên toàn thế giới. ",
-            "changelog": "",
-            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iQIYI.v.9.3.1.apk",
-            "updateUrl": "",
-            "packageName": "com.iqiyi.i18n.tv",
-            "isLocked": false,
-            "screenshots": [
-                "https://lh3.googleusercontent.com/d/1D9sVlqRmTYo3kA4YCAF2hFzYTQUC-AKD",
-                "https://lh3.googleusercontent.com/d/1H2gerGrIoK8Z1ADdDyKn2-u-M85RW8mW"
-            ]
-        }
-    ],
     "Thể Thao": [],
     "KaRaoKe-Âm nhạc": [
         {
