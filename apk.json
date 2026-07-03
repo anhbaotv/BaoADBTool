@@ -1,14 +1,6 @@
 {
     "TRUYỀN H̀NH": [
         {
-            "title": "QuanTV",
-            "version": "250921",
-            "packageName": "vn.quan.quantv",
-            "description": "Đã tải lên bằng Tool CMS",
-            "icon": "https://img.icons8.com/color/512/android-os.png",
-            "downloadUrl": "https://github.com/anhbaotv/BaoADBTool/releases/download/BaoADBTool/5ae36_Quantv250921.apk"
-        },
-        {
             "title": "VietPlay TV",
             "version": "2.2",
             "packageName": "com.nghenhin24h.vietplaytv",
