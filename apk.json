@@ -1,25 +1,5 @@
 {
     "Thể Thao": [],
-    "KaRaoKe-Âm nhạc": [
-        {
-            "id": "ka1",
-            "title": "SmartKaraoke",
-            "icon": "https://lh3.googleusercontent.com/d/1Eydojwu9sUt_8y0hv-r7KdbMOmeTdxVl",
-            "rating": 4.7,
-            "version": "3.52",
-            "oldVersion": "",
-            "description": "Smart Karaoke Player là phần mềm karaoke chuyên nghiệp dành cho các đầu HD – 4K, Android Box.",
-            "changelog": "",
-            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/SmartKaraokePlayerPRO_v3.52_RTD.apk",
-            "updateUrl": "",
-            "packageName": "com.smartkaraoke.playerpro",
-            "isLocked": false,
-            "screenshots": [
-                "https://lh3.googleusercontent.com/d/1shIWB4PGGgiDR1oV_xwq2L2pO0W6w7NZ",
-                "https://lh3.googleusercontent.com/d/19ICxhD8kNeanL7r-XHUhDPRmLRPik5t-"
-            ]
-        }
-    ],
     "Trình Duyệt": [
         {
             "id": "td1",
