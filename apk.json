@@ -1,24 +1,4 @@
 {
-    "Youtube": [
-        {
-            "id": "yotube1",
-            "title": "Youtube",
-            "icon": "https://lh3.googleusercontent.com/d/1cWIGVS-4sMv901_KyhM5uY1VsGlh1Acr",
-            "rating": 4.8,
-            "version": "1.0.12",
-            "oldVersion": "",
-            "description": "Ứng dụng chính thức của google có quảng cáo.",
-            "changelog": "",
-            "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/cobalttube-arm.apk",
-            "updateUrl": "",
-            "packageName": "com.google.android.youtube.tv",
-            "isLocked": false,
-            "screenshots": [
-                "https://lh3.googleusercontent.com/d/140MJ407y6XHX3ab42TC9IJzC4KmNz2O0",
-                "https://lh3.googleusercontent.com/d/10V8yolHeBVluwAkUJHB0C4pUHD0qBMik"
-            ]
-        }
-    ],
     "Xem Phim": [
         {
             "id": "Phim4",
