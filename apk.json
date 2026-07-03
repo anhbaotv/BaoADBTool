@@ -1,42 +1,4 @@
 {
-    "Truyền Hình": [
-        {
-            "id": "TV360",
-            "title": "TV360",
-            "icon": "https://lh3.googleusercontent.com/d/1FoKzNUQTs3xHEGGQgyE3nWAtTQD06sML",
-            "rating": 4.5,
-            "version": "5.4",
-            "oldVersion": "",
-            "description": "Ứng dụng xem truyền hình,thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-            "changelog": "",
-            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/TV360.tv.v.5.4.apk",
-            "updateUrl": "",
-            "packageName": "com.viettel.tv360.tv",
-            "isLocked": false,
-            "screenshots": [
-                "https://lh3.googleusercontent.com/d/1_qvnOvRkZaVfETyXuEOf8-5eqXj9mU8U",
-                "https://lh3.googleusercontent.com/d/1aaSyJx-feTrl2BGw-iPyhKzPmsd7ylvK"
-            ]
-        },
-        {
-            "id": "app_1782713695730",
-            "title": "FPTPlay",
-            "icon": "https://lh3.googleusercontent.com/d/1vmuSa3KvAKxcvlGpxQiaCnNNsCfaIscC",
-            "rating": 5.0,
-            "version": "7.25.10",
-            "oldVersion": "",
-            "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-            "changelog": "",
-            "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/FPTPLAY.v.7.25.10.apk",
-            "updateUrl": "",
-            "packageName": "net.fptplay.ottbox",
-            "isLocked": false,
-            "screenshots": [
-                "https://lh3.googleusercontent.com/d/1df9mNRKOlE-uN-o7RotqrJ_8z-1xZE9i",
-                "https://lh3.googleusercontent.com/d/1tMIok_HwAASINy4kqwO0P0Jda1bRZ5wg"
-            ]
-        }
-    ],
     "Youtube": [
         {
             "id": "yotube1",
