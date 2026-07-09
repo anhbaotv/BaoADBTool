@@ -1,14 +1,6 @@
 {
     "TRUYỀN HÌNH": [
         {
-            "title": "Send Files To TV",
-            "version": "1.4.1",
-            "packageName": "com.yablio.sendfilestotv",
-            "description": "Đã tải lên bằng Tool CMS",
-            "icon": "https://img.icons8.com/color/512/android-os.png",
-            "downloadUrl": "https://github.com/anhbaotv/BaoADBTool/releases/download/BaoADBTool/Send_Files_To_TV_v1.4.1_.Premium.apk"
-        },
-        {
             "title": "X-plore",
             "version": "4.44.20",
             "packageName": "com.lonelycatgames.Xplore",
