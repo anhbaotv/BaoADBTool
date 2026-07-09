@@ -1,14 +1,6 @@
 {
     "TRUYỀN HÌNH": [
         {
-            "title": "Get Out",
-            "version": "2.0",
-            "packageName": "com.linor.vn.getout",
-            "description": "Đã tải lên bằng Tool CMS",
-            "icon": "https://img.icons8.com/color/512/android-os.png",
-            "downloadUrl": "https://github.com/anhbaotv/BaoADBTool/releases/download/BaoADBTool/GetOut-4-2.0.apk"
-        },
-        {
             "title": "OK Player",
             "version": "3.9",
             "packageName": "com.example.oktivi",
