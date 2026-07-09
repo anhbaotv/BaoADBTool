@@ -1,14 +1,6 @@
 {
     "TRUYỀN HÌNH": [
         {
-            "title": "Xem TV365",
-            "version": "1.0",
-            "packageName": "com.tvonline.hdtv",
-            "description": "Đã tải lên bằng Tool CMS",
-            "icon": "https://img.icons8.com/color/512/android-os.png",
-            "downloadUrl": "https://github.com/anhbaotv/BaoADBTool/releases/download/BaoADBTool/Hdtv_.Tvonline._v1.0.apk"
-        },
-        {
             "title": "Get Out",
             "version": "2.0",
             "packageName": "com.linor.vn.getout",
