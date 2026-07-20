@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "ATVTV",
+            "version": "1.0.13",
+            "packageName": "com.apptv.atvtv",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/anhbaotv/BaoADBTool/releases/download/BaoADBTool/com.apptv.atvtv.apk"
+        },
+        {
             "title": "File Manager",
             "version": "explore_1.0.3_HMD_0119_release",
             "packageName": "com.hitv.explore",
