@@ -1,1 +1,10 @@
-{}
+{
+    "TRUYỀN HÌNH": [
+        {
+            "title": "Vietplaytv",
+            "version": "1.0",
+            "packageName": "com.nghenhin24h.vietplaytv",
+            "downloadUrl": "https://github.com/anhbaotv/BaoADBTool/releases/download/BaoADBTool/Vietplaytv.apk"
+        }
+    ]
+}
