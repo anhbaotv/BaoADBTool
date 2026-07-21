@@ -1,1 +1,10 @@
-{}
+{
+    "TRUYỀN HÌNH": [
+        {
+            "title": "Oktivi (Example)",
+            "version": "3.9",
+            "packageName": "com.example.oktivi",
+            "downloadUrl": "https://github.com/anhbaotv/BaoADBTool/releases/download/BaoADBTool/Oktivi.Example._v3.9.apk"
+        }
+    ]
+}
