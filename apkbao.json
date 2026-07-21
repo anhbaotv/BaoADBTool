@@ -1,6 +1,12 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "Vietplaytv",
+            "version": "3.9",
+            "packageName": "com.nghenhin24h.vietplaytv",
+            "downloadUrl": "https://github.com/anhbaotv/BaoADBTool/releases/download/BaoADBTool/Vietplaytv.apk"
+        },
+        {
             "title": "Oktivi (Example)",
             "version": "3.9",
             "packageName": "com.example.oktivi",
